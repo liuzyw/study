@@ -1,0 +1,9 @@
+{
+  "title": "小组开发流程规范",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<p>一、    开发流程规范</p><p>&nbsp; 1.新建一个分支，例：20170629_liuzhaoyuan_updateCustomerCallNumber</p><p>&nbsp; 2.本地Test case</p><p>&nbsp; 3.Mvn clean compile</p><p>&nbsp; 4.git commit代码</p><p>&nbsp; 5.beta 环境部署观察下是否生效（qa测试看需要）:4080端口检查;web去看页面是否生效。</p><p>&nbsp; 6.code review，merge request</p><p>&nbsp; 7.merge 代码 &nbsp;</p><p>&nbsp; 8.部署上线（灰度上线）</p><p>&nbsp; 9.cat观察上线项目的报错情况，如果有大量报错，回滚项目。</p><p>&nbsp; 10.线上验证下。</p>\n"
+    }
+  ]
+}
