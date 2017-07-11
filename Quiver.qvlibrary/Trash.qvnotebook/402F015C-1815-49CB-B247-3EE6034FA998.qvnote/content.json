@@ -1,0 +1,18 @@
+{
+  "title": "Untitled Note",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<br>"
+    },
+    {
+      "type": "text",
+      "data": "&lt;button class=\"btn-yel big-btn J-btn-confirm\"&gt;确认消费&lt;/button&gt;<div>&lt;button class=\"btn-ash big-btn J-btn-cancel\"&gt;取消&lt;/button&gt;<br></div><div>字体18</div><div>&lt;button style=\"margin-top:3px;\" class=\"btn-yel consume-btn\" id=\"coupon-serial-number-verify-button\" onclick=\"hintNOJS()\"&gt;消 费&lt;/button&gt;<br></div><div></div>"
+    },
+    {
+      "type": "code",
+      "language": "c_cpp",
+      "data": "style=\"height: 49px; font-size: 18px;\""
+    }
+  ]
+}
