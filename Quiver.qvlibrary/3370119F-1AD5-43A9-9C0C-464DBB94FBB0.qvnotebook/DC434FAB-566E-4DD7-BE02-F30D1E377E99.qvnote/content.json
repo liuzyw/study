@@ -3,7 +3,7 @@
   "cells": [
     {
       "type": "text",
-      "data": "1. &nbsp; 在自己的分支上进行开发<div><br></div><div>2. &nbsp;</div><div><br></div><div>3. &nbsp;</div><div><br></div><div>4. &nbsp;</div>"
+      "data": "1. &nbsp; 在自己的分支上进行开发<div><br></div><div>2. &nbsp;本地调试时应该注意分支与beta分支一致，最好是在idea中切换至beta分支，在进行测试</div><div><br></div><div>3. &nbsp;<img src=\"quiver-image-url/29E755DAE542394F337417C00D47356A.jpg\" style=\"color: rgb(221, 221, 221);\" width=\"1330\" height=\"338\"></div><div><img src=\"quiver-image-url/182316EF7EFD568BA757403AC2C6164F.jpg\" width=\"2377\" height=\"795\"><br></div><div><img src=\"quiver-image-url/BA91651A4F3C5D448A93972CEF94EFB4.jpg\" width=\"1081\" height=\"395\"><br></div><div><img src=\"quiver-image-url/41EE50A48C769A32968F5A6CF8364EB4.jpg\" width=\"2592\" height=\"1114\"><br></div><div><br></div><div><br></div><div><br></div><div>4. &nbsp;同时在cat进行监控 &nbsp;</div>"
     }
   ]
 }
