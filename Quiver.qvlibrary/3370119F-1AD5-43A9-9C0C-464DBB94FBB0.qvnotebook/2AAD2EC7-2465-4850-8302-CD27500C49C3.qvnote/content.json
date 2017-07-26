@@ -40,7 +40,7 @@
     },
     {
       "type": "markdown",
-      "data": "不像第一次执行的命令，你会发现第二个命令只是一个单词 - package。这是一个阶段而不是一个目标。一个有序的阶段是构建生命周期的一个步骤。当一个阶段被给定后，Maven将执行序列中的每一个阶段，包括一个定义。例如，如果我们执行compile 阶段，这个阶段将真正得到执行的是：1.验证 2.生成来源 3.处理来源 4.生成资源 5.处理资源 6.编译 (1.validate 2.generate-sources 3.process-sources 4.generate-resources 5.process-resources 6.compile )"
+      "data": "不像第一次执行的命令，你会发现第二个命令只是一个单词 - package。这是一个阶段而不是一个目标。一个有序的阶段是构建生命周期的一个步骤。当一个阶段被给定后，Maven将执行序列中的每一个阶段，包括一个定义。例如，如果我们执行compile 阶段，这个阶段将真正得到执行的是：1.验证 2.生成来源 3.处理来源 4.生成资源 5.处理资源 6.编译 \n(1.validate 2.generate-sources 3.process-sources 4.generate-resources 5.process-resources 6.compile )"
     },
     {
       "type": "text",
@@ -72,7 +72,7 @@
     },
     {
       "type": "markdown",
-      "data": "http://blog.csdn.net/myarrow/article/details/50824793\nhttp://www.cnblogs.com/wangmingshun/p/6383576.html\n"
+      "data": "http://blog.csdn.net/myarrow/article/details/50824793\nhttp://www.cnblogs.com/wangmingshun/p/6383576.html\nhttp://www.yiibai.com/maven/create-a-web-application-project-with-maven.html#article-start\nhttp://blog.csdn.net/williamhappy/article/details/54376855#三-创建开发项目\n\n"
     }
   ]
 }
