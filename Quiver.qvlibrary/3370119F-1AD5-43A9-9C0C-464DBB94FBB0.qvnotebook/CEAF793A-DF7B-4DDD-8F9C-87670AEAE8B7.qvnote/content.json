@@ -1,0 +1,9 @@
+{
+  "title": "Nexus",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<span style=\"color: rgb(85, 85, 85); font-family: 'microsoft yahei'; font-size: 15px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);\">在Mac终端输入brew install nexus</span><div><span style=\"color: rgb(85, 85, 85); font-family: 'microsoft yahei'; font-size: 15px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(85, 85, 85); font-variant-ligatures: normal; background-color: rgb(255, 255, 255);\">启动nexus的命令为brew services start nexus，其它命令请搜索brew用法</span><br></span></div><div><span style=\"color: rgb(85, 85, 85); font-family: 'microsoft yahei'; font-size: 15px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(85, 85, 85); font-variant-ligatures: normal; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(85, 85, 85); font-variant-ligatures: normal; background-color: rgb(255, 255, 255);\">然后再浏览器输入nexus管理地址为127.0.0.1:8081/nexus，默认管理员帐号密码为admin/admin123</span><br></span></span></div><div style=\"orphans: 2; widows: 2;\"><font face=\"microsoft yahei\"><span style=\"font-size: 15px;\">启动 ./nexus start</span></font></div>"
+    }
+  ]
+}
