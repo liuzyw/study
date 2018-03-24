@@ -1,9 +1,0 @@
-{
-  "title": "2017年7月21日",
-  "cells": [
-    {
-      "type": "text",
-      "data": "<span style=\"color: rgb(221, 221, 221);\">2017年7月21日工作周报</span><div style=\"color: rgb(221, 221, 221);\"><br></div><div style=\"color: rgb(221, 221, 221);\">一、 工作内容</div><div style=\"color: rgb(221, 221, 221);\">&nbsp; &nbsp; &nbsp; 1 &nbsp; 消费翻页样式修改（done）</div><div style=\"color: rgb(221, 221, 221);\">&nbsp; &nbsp; &nbsp; 2 &nbsp;核销微信模板样式修改（done）</div><div style=\"color: rgb(221, 221, 221);\">&nbsp; &nbsp; &nbsp; 3 &nbsp;开发验券查询接口支持(60%)</div><div style=\"color: rgb(221, 221, 221);\"><br></div><div style=\"color: rgb(221, 221, 221);\">二、 &nbsp;遇到问题</div><div style=\"color: rgb(221, 221, 221);\">&nbsp; &nbsp; &nbsp;1 页面样式的修改过程中还有很多问题，还需要好好学习一下前端知识</div><div style=\"color: rgb(221, 221, 221);\">&nbsp; &nbsp; &nbsp;2 对待券业务还不是很熟悉，涉及的项目也不是很清楚，以后还需要慢慢了解</div><div style=\"color: rgb(221, 221, 221);\">&nbsp; &nbsp; &nbsp;3 在开发中会遇到很多问题，需要学会去找合适的人解决问题，要掌握正确的沟通方式</div><div style=\"color: rgb(221, 221, 221);\">&nbsp; &nbsp; &nbsp;4 开发需要遵守开发流程和规范，避免不必要的问题</div><div style=\"color: rgb(221, 221, 221);\"><br></div><div style=\"color: rgb(221, 221, 221);\">三、 下周计划</div><div style=\"color: rgb(221, 221, 221);\">&nbsp; &nbsp; &nbsp;1 完成小组安排的开发任务</div><div style=\"color: rgb(221, 221, 221);\">&nbsp; &nbsp; &nbsp;2 熟悉小组开发项目</div><div style=\"color: rgb(221, 221, 221);\">&nbsp; &nbsp; &nbsp;3 学习pigeon框架和了解mafka</div><div style=\"color: rgb(221, 221, 221);\">&nbsp; &nbsp; &nbsp;4 补习一些前端知识</div>"
-    }
-  ]
-}
