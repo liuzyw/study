@@ -1,0 +1,9 @@
+{
+  "title": "Rabbitmq",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "1 启动 sbin/rabbitmq-server\n2 配置插件 进入sbin 目录 sudo ./rabbitmq-plugins enable rabbitmq_management\n3 关闭 sbin/rabbitmqctl stop\n4 状态查询 sbin/rabbitmqctl status"
+    }
+  ]
+}

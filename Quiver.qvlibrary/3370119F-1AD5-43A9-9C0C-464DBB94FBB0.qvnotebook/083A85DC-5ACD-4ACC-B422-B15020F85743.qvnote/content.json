@@ -1,0 +1,9 @@
+{
+  "title": "sql 学习",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "###一、基础命令\n 1、本机启动 mysql.server start; 关闭 mysql.server stop\n 2、访问 mysql -u root -p\n 3、查询当前日期和时间 select NOW() select current_timestamp();\n 4、查看系统支持的字符集 show cahracter set;\n 5、检查表的定义 desc table_name\n 6、修改已存在表的定义  alter table user modify userId samllint usering auto_increment\n \n###二、查询内建函数\n1、select version(), user(), database();\n2、根据用户名的后三位进行排序 select username from user order by right(username, 3)\n3、使用数字占位符进行排序 selecy name,age from user order by 2\n4、内建函数 year(date)=2001\n5、范围查询，> < between and in\n6、表达式可以为null ，但不能等于 null\n7、查看数据库的当前模式 select @@session.sql_mode;\n8、返回字符串的长度函数 length(str)；\n9、mysql 提供全局时区和会话时区 select @@global.time_zone, @@session.time_zone\n10、操作时间 select date_add(current_date(), interval 5 day);\n11、当月的最后一天 select last_day('2018-01-03')\n12、计算两个日期之间的天数 select datediff('2012-03-09', '2018-01-27')\n13、count(*) 计算所有的行数，count(col) 是统计所有非null的列数\n\n###三、事物\n1、开始事物 start transaction commit\n2、关闭自动提交 set autocommit=0\n\n###四、索引\n1、创建索引 alter table user add index IX_userId(userId)\n2、查看索引 show index from user\n3、删除索引 alter table user drop index IX_userId\n4、添加位移索引 alter table user add unique IX_userId(userId)"
+    }
+  ]
+}
